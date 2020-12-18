@@ -1,0 +1,19 @@
+h2{
+    text-align: center;    
+    background-color: darkseagreen;
+    padding: 25px;
+    margin: 0;
+    margin-left: -7px;
+    margin-right: -1px;
+}
+a{
+    color:rgb(155, 134, 65);
+    text-decoration: none;
+}
+.list{
+    border-right: 5px solid grey;
+}
+#grid{
+    display: grid;
+    grid-template-columns: 0.3fr 1fr;
+}
