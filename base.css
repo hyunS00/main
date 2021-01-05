@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(241, 171, 171);
+}
+h1{
+    background-color: lightcoral;
+    text-align: center;
+    padding: 5%;
+    margin: -7px;
+    margin-bottom: 0;
+}
